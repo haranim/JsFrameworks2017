@@ -1,0 +1,47 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true"  CodeFile="Default.aspx.cs" Inherits="_Default" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="Green.css" rel="stylesheet" type="text/css" id="ss" />
+    <script type="text/javascript">
+        function Blue() {
+
+            document.getElementById('ss').href = 'Blue.css';
+        }
+        function Green() {
+            document.getElementById('ss').href = 'Green.css';
+        }
+    
+    </script>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+    <table>
+    
+    <tr>
+    <td style=" height:50px; width:50px"></td>
+    <td>
+    <input type="button" value="Green" ID="Button1" runat="server" onclick="Green();"/>
+        
+        <br />
+        <br />
+        
+         <input type="button" value="Blue" ID="Button3" runat="server" onclick="Blue();"/>
+        <br />
+        </td>
+    </tr>
+    <tr>
+    <td></td>
+    <td id="change" style="height:50px; width:50px"></td>
+    </tr>
+    
+    </table>
+    
+    </div>
+    </form>
+</body>
+</html>
