@@ -1,0 +1,29 @@
+﻿#header
+{
+	height:100px;
+}
+#content
+{
+	height:600px;
+	width:9000px;
+}
+#ColumnA
+{
+	width:200px;
+}
+#ColumnB
+{
+	width:900px;
+	padding-left:250px;
+	padding-top:200px;
+	vertical-align:top;
+}
+.watermarkOn  
+{
+    color: #CCCCCC;
+    font-style: italic;
+}
+.ui-autocomplete-loading
+{
+            background: white url('Images\loading_icon_small1.gif') right center no-repeat;
+}
