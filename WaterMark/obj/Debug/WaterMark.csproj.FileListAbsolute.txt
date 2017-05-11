@@ -1,0 +1,27 @@
+D:\MyWebsites\JquerySample\WaterMark\bin\WaterMark.dll
+D:\MyWebsites\JquerySample\WaterMark\bin\WaterMark.pdb
+D:\MyWebsites\JquerySample\WaterMark\obj\Debug\ResolveAssemblyReference.cache
+D:\MyWebsites\JquerySample\WaterMark\obj\Debug\WaterMark.dll
+D:\MyWebsites\JquerySample\WaterMark\obj\Debug\WaterMark.pdb
+C:\Documents and Settings\hmuduthanapally\Desktop\MyWorks\MyWebsites\JquerySample\WaterMark\bin\WaterMark.dll
+C:\Documents and Settings\hmuduthanapally\Desktop\MyWorks\MyWebsites\JquerySample\WaterMark\bin\WaterMark.pdb
+C:\Documents and Settings\hmuduthanapally\Desktop\MyWorks\MyWebsites\JquerySample\WaterMark\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\hmuduthanapally\Desktop\MyWorks\MyWebsites\JquerySample\WaterMark\obj\Debug\WaterMark.dll
+C:\Documents and Settings\hmuduthanapally\Desktop\MyWorks\MyWebsites\JquerySample\WaterMark\obj\Debug\WaterMark.pdb
+D:\MyWebsites\MyWebsites_Jquery\JquerySample\WaterMark\bin\WaterMark.dll
+D:\MyWebsites\MyWebsites_Jquery\JquerySample\WaterMark\bin\WaterMark.pdb
+D:\MyWebsites\MyWebsites_Jquery\JquerySample\WaterMark\obj\Debug\ResolveAssemblyReference.cache
+D:\MyWebsites\MyWebsites_Jquery\JquerySample\WaterMark\obj\Debug\WaterMark.dll
+D:\MyWebsites\MyWebsites_Jquery\JquerySample\WaterMark\obj\Debug\WaterMark.pdb
+E:\HMuduthanapally\HP\NanuuOfcLappy\MyWebSites\MyWebsites_Jquery\JquerySample\WaterMark\bin\WaterMark.dll.config
+E:\HMuduthanapally\HP\NanuuOfcLappy\MyWebSites\MyWebsites_Jquery\JquerySample\WaterMark\bin\WaterMark.dll
+E:\HMuduthanapally\HP\NanuuOfcLappy\MyWebSites\MyWebsites_Jquery\JquerySample\WaterMark\bin\WaterMark.pdb
+E:\HMuduthanapally\HP\NanuuOfcLappy\MyWebSites\MyWebsites_Jquery\JquerySample\WaterMark\obj\Debug\WaterMark.csprojResolveAssemblyReference.cache
+E:\HMuduthanapally\HP\NanuuOfcLappy\MyWebSites\MyWebsites_Jquery\JquerySample\WaterMark\obj\Debug\WaterMark.dll
+E:\HMuduthanapally\HP\NanuuOfcLappy\MyWebSites\MyWebsites_Jquery\JquerySample\WaterMark\obj\Debug\WaterMark.pdb
+E:\HMuduthanapally\MyProjects\2017\GitHub\JQueryDemo\WaterMark\bin\WaterMark.dll.config
+E:\HMuduthanapally\MyProjects\2017\GitHub\JQueryDemo\WaterMark\bin\WaterMark.dll
+E:\HMuduthanapally\MyProjects\2017\GitHub\JQueryDemo\WaterMark\bin\WaterMark.pdb
+E:\HMuduthanapally\MyProjects\2017\GitHub\JQueryDemo\WaterMark\obj\Debug\WaterMark.csprojResolveAssemblyReference.cache
+E:\HMuduthanapally\MyProjects\2017\GitHub\JQueryDemo\WaterMark\obj\Debug\WaterMark.dll
+E:\HMuduthanapally\MyProjects\2017\GitHub\JQueryDemo\WaterMark\obj\Debug\WaterMark.pdb
