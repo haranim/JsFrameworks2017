@@ -1,2 +1,2 @@
 # JsFrameworks2017
-Javascript Frameworks
+Javascript Frameworks > Web applcations using jQuery Library
